@@ -4,6 +4,7 @@ The dashboard helps businesses understand customer segments, product categories,
 
 
 🚀 Features
+
 Sales analysis by customer segment
 Region-wise sales distribution
 State-wise sales visualization using maps
@@ -16,6 +17,7 @@ Total Quantity
 Discount Analysis
 
 🛠️ Tools & Technologies Used
+
 Power BI
 Data Visualization
 Data Cleaning
@@ -23,6 +25,7 @@ Business Intelligence
 Dashboard Design
 
 📊 Dashboard Insights
+
 Consumer segment contributes the highest sales.
 Phones and Chairs are top-performing sub-categories.
 Regional sales comparison helps identify high-performing areas.
