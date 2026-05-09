@@ -25,3 +25,13 @@ Regional sales comparison helps identify high-performing areas.
 Time-series analysis shows sales growth trends over time.
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-09 225627" src="https://github.com/user-attachments/assets/56532a72-96a2-4d38-afe7-fbc0ed6facb6" />
+## Dataset
+The dataset used for this project contains sales records including:
+- Order Date
+- Sales
+- Profit
+- Quantity
+- Region
+- Customer Segment
+- Product Category
+  
